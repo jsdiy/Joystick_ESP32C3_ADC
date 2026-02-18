@@ -20,7 +20,7 @@ ESP32-C3のADCを利用してジョイスティックの傾き（可変抵抗の
 ## 動作確認環境
 - PlatformIO + ArduinoFramework
 - ESP32-C3
-- アルプスパイン製 RKJXV1224005（相当品）
+- アルプスアルパイン製 RKJXV1224005（相当品）
 - SPI-LCD (ILI9225)
 
 ## サンプル画像
