@@ -24,5 +24,5 @@ ESP32-C3のADCを利用してジョイスティックの傾き（可変抵抗の
 - SPI-LCD (ILI9225)
 
 ## サンプル画像
-![サンプル](https://github.com/jsdiy/Joystick_ESP32C3_ADC/blob/main/sample/IMG_20260218_120035.jpg)
-![サンプル](https://github.com/jsdiy/Joystick_ESP32C3_ADC/blob/main/sample/IMG_20260218_120042.jpg)
+![サンプル](https://github.com/jsdiy/Joystick_ESP32C3_ADC/blob/main/sample/IMG_20260222_114931.jpg)
+![サンプル](https://github.com/jsdiy/Joystick_ESP32C3_ADC/blob/main/sample/IMG_20260222_114943.jpg)
